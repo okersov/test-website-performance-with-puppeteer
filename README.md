@@ -1,4 +1,4 @@
-# test-website-performance-with-puppeteer
+# website-performance-testing-with-puppeteer
 Code used in article https://michaljanaszek.com/blog/test-website-performance-with-puppeteer
 
 
