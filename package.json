@@ -1,10 +1,9 @@
 {
-  "name": "test-website-performance-with-puppeteer",
+  "name": "website-performance-testing-with-puppeteer",
   "version": "1.0.0",
-  "repository": "https://github.com/Everettss/test-website-performance-with-puppeteer",
-  "description": "Code used in article https://michaljanaszek.com/blog/test-website-performance-with-puppeteer",
+  "repository": "https://github.com/okersov/website-performance-testing-with-puppeteer",
   "main": "index.js",
-  "author": "Michal Janaszek",
+  "author": "Oleksii Kersov",
   "license": "MIT",
   "dependencies": {
     "progress": "^2.0.0",
